@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861372386050",
+    "project_id": "medicine-sell-946b7",
+    "storage_bucket": "medicine-sell-946b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861372386050:android:443a14dec25c1ded01501b",
+        "android_client_info": {
+          "package_name": "com.example.trijalsrimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861372386050-q3s6o3his51jg1065jcssq9j5urca12s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDG4hg6G7WoscCW-XYmG0dAd7HSwDPdrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861372386050-q3s6o3his51jg1065jcssq9j5urca12s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
